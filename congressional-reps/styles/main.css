@@ -1,0 +1,22 @@
+
+.committiees{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.legislation{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+
+}
+.marsha{
+    background-color: antiquewhite;
+    display: flex;
+    font-size: x-small
+}
+h3{
+    font-size: xx-large;
+}
